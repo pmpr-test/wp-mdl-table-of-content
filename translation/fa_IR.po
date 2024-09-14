@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pmpr AMP\n"
+"POT-Creation-Date: 2023-06-21 15:22+0330\n"
+"PO-Revision-Date: 2023-06-21 15:23+0330\n"
+"Last-Translator: pmpr.dev <pmpr.dev@gmail.com>\n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.3.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: index.php\n"
+"X-Source-Language: en\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: lib\n"
+"X-Poedit-SearchPathExcluded-1: *.js\n"
+
+#: src/Pmpr/Module/TableOfContent/Setting.php:28
+#: src/Pmpr/Module/TableOfContent/TableOfContent.php:18
+#: src/Pmpr/Module/TableOfContent/Traits/RenderTrait.php:22
+#: src/Pmpr/Module/TableOfContent/Widget.php:22
+msgid "Table of Content"
+msgstr "فهرست مطالب"
+
+#: src/Pmpr/Module/TableOfContent/Setting.php:29
+msgid "Table of Content Setting"
+msgstr "تنظیمات فهرست مطالب"
+
+#: src/Pmpr/Module/TableOfContent/Setting.php:37
+#: src/Pmpr/Module/TableOfContent/Setting.php:41
+msgid "General"
+msgstr "عمومی"
+
+#: src/Pmpr/Module/TableOfContent/Setting.php:38
+msgid "General Configuration"
+msgstr "پیکربندی عمومی"
+
+#: src/Pmpr/Module/TableOfContent/Setting.php:45
+msgid "List Title"
+msgstr "عنوان فهرست"
+
+#: src/Pmpr/Module/TableOfContent/Setting.php:49
+#: src/Pmpr/Module/TableOfContent/Widget.php:36
+msgid "Collapsible"
+msgstr "قابلیت باز و بسته شدن"
+
+#: src/Pmpr/Module/TableOfContent/Setting.php:50
+msgid ""
+"By enabling this option, the ability to open and close is added to the table "
+"of contents."
+msgstr ""
+"با فعال کردن این گزینه قابلیت باز و بسته شدن به فهرست مطالب اضافه می شود."
+
+#: src/Pmpr/Module/TableOfContent/Setting.php:55
+msgid "Post Types"
+msgstr "نوع نوشته‌ها"
+
+#: src/Pmpr/Module/TableOfContent/Setting.php:61
+msgid "Minimum Heading Count"
+msgstr "حداقل تعداد تیتر"
+
+#: src/Pmpr/Module/TableOfContent/Setting.php:66
+msgid "Hierarchical"
+msgstr "سلسله مراتبی"
+
+#: src/Pmpr/Module/TableOfContent/Setting.php:67
+msgid ""
+"By enabling this option, the content list items will be displayed in a "
+"hierarchical manner."
+msgstr ""
+"با فعال کردن این گزینه آیتم های لیست محتوا به صورت سلسله مراتبی نمایش داده "
+"می شوند."
+
+#: src/Pmpr/Module/TableOfContent/Setting.php:72
+msgid "Heading Levels"
+msgstr "عمق تیترها"
+
+#: src/Pmpr/Module/TableOfContent/Setting.php:78
+msgid "Exclude Posts"
+msgstr "نوشته‌های مستثنی"
+
+#: src/Pmpr/Module/TableOfContent/Setting.php:79
+msgid "Disable in selected posts."
+msgstr "غیر فعال کردن برای نوشته‌های انتخاب شده."
+
+#: src/Pmpr/Module/TableOfContent/Setting.php:97
+#, php-format
+msgid "Heading Level %s (h%s)"
+msgstr "سطح تیتر %s (h%s)"
+
+#: src/Pmpr/Module/TableOfContent/Traits/RenderTrait.php:23
+msgid "Close"
+msgstr "بستن"
+
+#: src/Pmpr/Module/TableOfContent/Traits/RenderTrait.php:24
+msgid "Show"
+msgstr "نمایش"
+
+#: src/Pmpr/Module/TableOfContent/Widget.php:23
+msgid "Display the table of contents."
+msgstr "نمایش فهرست مطالب."
+
+#: src/Pmpr/Module/TableOfContent/Widget.php:32
+msgid "Title"
+msgstr "عنوان"
+
+#~ msgid "Table of Contents"
+#~ msgstr "فهرست مطالب"
+
+#~ msgid ""
+#~ "Sorry, this file couldn't be sanitized so for security reasons wasn't "
+#~ "uploaded"
+#~ msgstr ""
+#~ "متاسفم، قادر به پاکسازی فایل مورد نظر نبودیم، به دلایل امنیتی فایل آپلود "
+#~ "نشد"
+
+#~ msgid "Full Size"
+#~ msgstr "اندازه کامل"
+
+#~ msgid "Thumbnail"
+#~ msgstr "تصویر بند انگشتی"
+
+#~ msgid "Medium"
+#~ msgstr "متوسط"
+
+#~ msgid "Large"
+#~ msgstr "بزرگ"
+
+#~ msgid "AMP"
+#~ msgstr "شتابدهی موبایل"
+
+#~ msgid "Enable AMP"
+#~ msgstr "فعال سازی شتابدهی موبایل"
+
+#~ msgid "Endpoint"
+#~ msgstr "نقطه پایانی"
+
