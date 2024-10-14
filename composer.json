@@ -1,32 +1,9 @@
 {
-  "name": "pmpr-mdl/wp-mdl-table-of-content",
-  "type": "project",
-  "license": "proprietary",
-  "description": "Table of Content Module for Wordpress",
-  "keywords": [
-    "wordpress",
-    "package",
-    "module",
-    "table of content"
-  ],
-  "require": {
-    "php": ">=8.2",
-    "pmpr-cmn/wp-cmn-foundation": "~1.4"
-  },
   "prod-require": {
     "php": "8.2",
     "wordpress": "6.0",
     "wp-cmn-foundation": "latest"
   },
-  "autoload": {
-    "psr-4": {
-      "Pmpr\\Module\\TableOfContent\\": "src/Pmpr/Module/TableOfContent"
-    },
-    "files": [
-      "index.php"
-    ]
-  },
-  "minimum-stability": "dev",
   "tag": "1.1.15",
-  "timestamp": "1728905294"
+  "timestamp": "1728923382"
 }
