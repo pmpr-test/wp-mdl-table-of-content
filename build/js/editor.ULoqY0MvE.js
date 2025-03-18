@@ -1,2 +1,2 @@
-/*! For license information please see editor.v5rYpqDFE.js.LICENSE.txt */
+/*! For license information please see editor.ULoqY0MvE.js.LICENSE.txt */
 !function(){const e=PRHelper.getHook(),t=(PRHelper.getType(),PRHelper.getHTML(),PRBackendHelper.getForm());e.on("click","#table_of_content_translate_heading_anchors",(e=>{t.getEditorContent("content")}))}();
